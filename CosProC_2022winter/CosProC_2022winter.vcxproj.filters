@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ArrayReverse.c">
+    <ClCompile Include="palindromeTest.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
