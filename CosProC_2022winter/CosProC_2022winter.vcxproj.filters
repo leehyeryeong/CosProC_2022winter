@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="OverlapTest.c">
+    <ClCompile Include="findMin.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
