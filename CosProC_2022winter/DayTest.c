@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-//두 날짜 사이의 월 수를 구하는 함수 빈칸 채우기
+//두 날짜 사이의 일수를 구하는 함수 빈칸 채우기
 int func_a(int month[], int day) {
 	int month_list[] = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
 	int total = 0;
