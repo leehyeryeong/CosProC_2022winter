@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="NumberTest.c">
+    <ClCompile Include="ArrayReverse.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
