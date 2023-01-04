@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="scoresPeople.c">
+    <ClCompile Include="cafeMember.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
