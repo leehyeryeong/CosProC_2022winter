@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="leftMoneyTest.c">
+    <ClCompile Include="k-Min.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
