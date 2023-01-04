@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cafeMember.c">
+    <ClCompile Include="weightTest.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
