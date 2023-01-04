@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="nameChar.c">
+    <ClCompile Include="leftMoneyTest.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
