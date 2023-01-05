@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="paintColor.c">
+    <ClCompile Include="cardGame.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
