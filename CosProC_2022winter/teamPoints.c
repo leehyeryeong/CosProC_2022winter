@@ -11,7 +11,7 @@ int* solution(int scores[][4], int scores_len) {
 		result[i] = 0;
 		for (int k = 0; k < 4; k++) {
 			if (i != k) {
-				result[i] += scores[i][k];
+				result[i] += (scores[i][k] * 2);
 			}
 		}
 	}
