@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="int_arrSum.c">
+    <ClCompile Include="baseballGame.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
