@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sameValue.c">
+    <ClCompile Include="paintColor.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
