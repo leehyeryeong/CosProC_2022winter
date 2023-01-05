@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="EvenOddCardGame.c">
+    <ClCompile Include="weightSinker.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
